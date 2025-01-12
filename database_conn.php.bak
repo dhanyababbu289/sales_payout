@@ -1,0 +1,4 @@
+<?php
+$con=mysql_connect("localhost","root","!@#mankada$");
+mysql_select_db("sales_payout",$con);
+?>
