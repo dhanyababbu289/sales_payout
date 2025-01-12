@@ -1,1 +1,1 @@
-"# sales_payout" 
+# sales_payout
